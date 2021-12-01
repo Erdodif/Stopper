@@ -28,7 +28,7 @@
                 <Font name="System Bold" size="30.0"/>
             </font>
         </Label>
-        <ListView GridPane.columnIndex="1" GridPane.rowIndex="2" fx:id="reszidoLista">
+        <ListView GridPane.columnIndex="1" GridPane.rowIndex="2" fx:id="reszidoLista" stylesheets="@listaStilus.css">
 
         </ListView>
     </children>
